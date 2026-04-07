@@ -56,7 +56,7 @@ if response.status_code == 200:
 
     # Limitando a 5 links para não demorar no teste (remova o [:5] depois para a entrega final)
 
-    links_para_baixar = links_internos[:5] 
+    links_para_baixar = links_internos
     print(f"Foram encontrados {len(links_internos)} links internos válidos!")
     print(f"Vamos baixar {len(links_para_baixar)} links para teste...\n")
     
