@@ -1,0 +1,3677 @@
+[
+    {
+        "titulo": "The Shawshank Redemption",
+        "ano": "1995",
+        "nota_imdb": 9.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Frank Darabont"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_1.jpg"
+    },
+    {
+        "titulo": "The Godfather",
+        "ano": "1972",
+        "nota_imdb": 9.2,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Francis Ford Coppola"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTRmMjkwYzYtYTRiMi00NDJjLTk1NjctMDA3MjY2ZWIyMGQ5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_2.jpg"
+    },
+    {
+        "titulo": "The Dark Knight",
+        "ano": "2008",
+        "nota_imdb": 9.1,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTRkYjU1MjQtODMxMS00YTNmLThkOTYtZThlMjE4YWZkZDI0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_3.jpg"
+    },
+    {
+        "titulo": "The Godfather Part II",
+        "ano": "1975",
+        "nota_imdb": 9,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Francis Ford Coppola"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDNlYmVkMGUtNWZkYi00ZDQ1LWFmZTAtOTY1ZjUyNzE0ZDNmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_4.jpg"
+    },
+    {
+        "titulo": "12 Angry Men",
+        "ano": "1958",
+        "nota_imdb": 9,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Sidney Lumet"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODNmNTFjODgtYzJhOC00ZGYyLWE4NzctZmMxZWM4NjhmY2JhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_5.jpg"
+    },
+    {
+        "titulo": "The Lord of the Rings: The Return of the King",
+        "ano": "2003",
+        "nota_imdb": 9,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Peter Jackson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTg4MTRlMjctYWY2My00ZmU4LTg3ODUtNjhjNGJmNDAyNDE3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_6.jpg"
+    },
+    {
+        "titulo": "Schindler's List",
+        "ano": "1994",
+        "nota_imdb": 9,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzVlNzhkNTItYWE5MS00ZjAzLWEzMDAtOTc3YmVhZjUzZTMwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_7.jpg"
+    },
+    {
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "ano": "2002",
+        "nota_imdb": 8.9,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Peter Jackson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_8.jpg"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "ano": "1995",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2JiMDdlY2QtNjk2ZC00ZjhhLWE1ZjktMTYyODBmMWZiOGUzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_9.jpg"
+    },
+    {
+        "titulo": "Il buono, il brutto, il cattivo",
+        "ano": "1968",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "Sergio Leone"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMWFiNDljMjQtMGZlMC00Y2E5LTg2OGUtN2MzMTdhNTkzYjBiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_10.jpg"
+    },
+    {
+        "titulo": "The Lord of the Rings: The Two Towers",
+        "ano": "2002",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Peter Jackson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNmRhNGRmNDQtMmI3Yy00OTRjLThjOWEtMmEwZmMxNTFjMWQ3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_11.jpg"
+    },
+    {
+        "titulo": "Forrest Gump",
+        "ano": "1994",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Robert Zemeckis"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOGE2OTRmZTAtN2ViZS00YTEzLWIxYzQtMjc1YmNmODBmZDdmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_12.jpg"
+    },
+    {
+        "titulo": "Fight Club",
+        "ano": "1999",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "David Fincher"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NzM1ZWMtMTExZS00YWU3LTk2MGYtNDI1NDkxZDhiMWJjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_13.jpg"
+    },
+    {
+        "titulo": "Inception",
+        "ano": "2010",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmIxYzJkYWQtOWQ4ZS00NjhlLTk0OTMtN2I4ZWQxZGEyZDVhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_14.jpg"
+    },
+    {
+        "titulo": "Star Wars: Episode V - The Empire Strikes Back",
+        "ano": "1980",
+        "nota_imdb": 8.7,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Irvin Kershner"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BY2ViMjFhMDMtNTA4Yi00NGJjLTk0ZTktNGVkZjJjMGY4ZTFkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_15.jpg"
+    },
+    {
+        "titulo": "The Matrix",
+        "ano": "1999",
+        "nota_imdb": 8.7,
+        "generos": [
+            "Ação",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGM1NDM3MTAtMmI0ZC00ZDAwLWEwY2EtNDdhYjZmMjJkNzM0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_16.jpg"
+    },
+    {
+        "titulo": "GoodFellas",
+        "ano": "1990",
+        "nota_imdb": 8.7,
+        "generos": [
+            "Biografia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjVmM2I5MTktNmMyYS00M2NkLThiYWMtMjIxOGI5ZDIwNjAwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_17.jpg"
+    },
+    {
+        "titulo": "Interstellar",
+        "ano": "2014",
+        "nota_imdb": 8.7,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_18.jpg"
+    },
+    {
+        "titulo": "One Flew Over the Cuckoo's Nest",
+        "ano": "1976",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Miloš Forman"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjIyN2E0MmMtMmI3NS00NTNlLWI5N2MtYjgwYWRjYmRiNDYzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_19.jpg"
+    },
+    {
+        "titulo": "Se7en",
+        "ano": "1995",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "David Fincher"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BN2U5ZDE4OTgtYzY4ZC00MWFhLTg2ZjUtNDQ2ZGE0MDUyNmVkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_20.jpg"
+    },
+    {
+        "titulo": "It's a Wonderful Life",
+        "ano": "1947",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Drama",
+            "Família",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Frank Capra"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDNjNTY4YTItZDQ4My00MDU2LTkyZWQtNGQwNmM4ZDRlM2I5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_21.jpg"
+    },
+    {
+        "titulo": "The Silence of the Lambs",
+        "ano": "1991",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Terror"
+        ],
+        "diretores": [
+            "Jonathan Demme"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTBlY2FjM2EtMWIxYy00NWE2LWE0MWUtMjI2NjZjZDE2YWYwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_22.jpg"
+    },
+    {
+        "titulo": "Shichinin no samurai",
+        "ano": "1954",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Ação",
+            "Drama"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_23.jpg"
+    },
+    {
+        "titulo": "Saving Private Ryan",
+        "ano": "1998",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZWVkYTBlODQtMjFiMi00ODExLWJhMzUtNGY5MDg0MDQwZTM4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_24.jpg"
+    },
+    {
+        "titulo": "The Green Mile",
+        "ano": "2000",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Frank Darabont"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_25.jpg"
+    },
+    {
+        "titulo": "Cidade de Deus",
+        "ano": "2002",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Kátia Lund",
+            "Fernando Meirelles"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTUyODNkNTItMGUwNi00MTlhLWE5YzMtOTA5MTljNTFhNGRhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_26.jpg"
+    },
+    {
+        "titulo": "La vita è bella",
+        "ano": "1999",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Roberto Benigni"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjk5M2UxYTMtMzAxYS00NzE5LTk0M2QtNmM0NzNkZGY5OTUxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_27.jpg"
+    },
+    {
+        "titulo": "Terminator 2: Judgment Day",
+        "ano": "1991",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "James Cameron"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_28.jpg"
+    },
+    {
+        "titulo": "Star Wars",
+        "ano": "1978",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "George Lucas"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWE0MDA0YjgtOGVhMi00NjY0LTkxNGQtYjVjMWU3ZTU5Mjc1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_29.jpg"
+    },
+    {
+        "titulo": "Back to the Future",
+        "ano": "1985",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Aventura",
+            "Comédia",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Robert Zemeckis"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDcyNmYxN2QtMmViZS00NTQ4LTlhZTAtZjc4MzY2Yjg0M2ZmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_30.jpg"
+    },
+    {
+        "titulo": "Sen to Chihiro no kamikakushi",
+        "ano": "2003",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Família"
+        ],
+        "diretores": [
+            "Hayao Miyazaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_31.jpg"
+    },
+    {
+        "titulo": "The Pianist",
+        "ano": "2003",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Musical"
+        ],
+        "diretores": [
+            "Roman Polanski"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTIxNDEtZjk4ZS00OWQ4LWI5NDYtZmM1MDM0MDljNDkwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_32.jpg"
+    },
+    {
+        "titulo": "Gladiator",
+        "ano": "2000",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "Ridley Scott"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_33.jpg"
+    },
+    {
+        "titulo": "Gisaengchung",
+        "ano": "2019",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Bong Joon Ho"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_34.jpg"
+    },
+    {
+        "titulo": "Hotaru no haka",
+        "ano": "1988",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Animação",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Isao Takahata"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzRmNTc4YTktMWQxMy00MjVjLWExNzEtNDU0YjEyMzBlYjEwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_35.jpg"
+    },
+    {
+        "titulo": "Psycho",
+        "ano": "1961",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Terror",
+            "Mistério"
+        ],
+        "diretores": [
+            "Alfred Hitchcock"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWVhMTE0MjUtMjY0ZS00YzM2LTg4NTUtODM3NzkzMjZmNjAwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_36.jpg"
+    },
+    {
+        "titulo": "The Lion King",
+        "ano": "1994",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzJmNDVmNTAtODI3Mi00Y2Y2LTg4MDItNGI0ODE4NTQ1ZmNlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_37.jpg"
+    },
+    {
+        "titulo": "Seppuku",
+        "ano": "1962",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Masaki Kobayashi"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_38.jpg"
+    },
+    {
+        "titulo": "The Departed",
+        "ano": "2006",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjcyNGRkODktYmJkNy00MDljLTg3YTItZDMzYzA2NTk5MmZiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_39.jpg"
+    },
+    {
+        "titulo": "Whiplash",
+        "ano": "2015",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Musical"
+        ],
+        "diretores": [
+            "Damien Chazelle"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYThjNThkNDYtODIzYS00N2ZhLTliNGYtNmE2NDdiYTBiNjQ0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_40.jpg"
+    },
+    {
+        "titulo": "Kill Bill: The Whole Bloody Affair",
+        "ano": "2025",
+        "nota_imdb": 8.8,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Suspense"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDM1Y2E3ZGItNDAyZS00NGYwLTlhMTctMzI4NjFmMTRjYzU0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_41.jpg"
+    },
+    {
+        "titulo": "The Prestige",
+        "ano": "2006",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGYyZjUzOTQtZWFiMi00YmZiLWI5MjUtYzQzZDE2MjgwNjNkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_42.jpg"
+    },
+    {
+        "titulo": "American History X",
+        "ano": "1999",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Tony Kaye"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTk5NDk1M2YtOTBmMy00MDhlLWJhZmMtNzI4ODc4NTg2ZmQ4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_43.jpg"
+    },
+    {
+        "titulo": "Léon",
+        "ano": "1995",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Luc Besson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ZWE4ZTQtM2Q2MS00Y2NjLWI0MGUtN2U2ODgwZThiZjc0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_44.jpg"
+    },
+    {
+        "titulo": "Spider-Man: Across the Spider-Verse",
+        "ano": "2023",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Joaquim Dos Santos",
+            "Kemp Powers",
+            "Justin K. Thompson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjgzNWYyOWItMGQxYi00MzQ2LWFhNGQtMDI4OWUyMThmZjk3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_45.jpg"
+    },
+    {
+        "titulo": "Nuovo Cinema Paradiso",
+        "ano": "1990",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Giuseppe Tornatore"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMThmMGEzMzYtZjllOC00OTQ3LTg3MDEtNTkwODM4Y2I3MzY3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_46.jpg"
+    },
+    {
+        "titulo": "Casablanca",
+        "ano": "1943",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Romance",
+            "Guerra"
+        ],
+        "diretores": [
+            "Michael Curtiz"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_47.jpg"
+    },
+    {
+        "titulo": "Intouchables",
+        "ano": "2012",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Olivier Nakache",
+            "Éric Toledano"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_48.jpg"
+    },
+    {
+        "titulo": "The Usual Suspects",
+        "ano": "1996",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Bryan Singer"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTU3OWU4MzYtMzgxMy00YWI4LWJmZDEtZTVjZjAxNmU4ZmFkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_49.jpg"
+    },
+    {
+        "titulo": "Alien",
+        "ano": "1979",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Terror",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Ridley Scott"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_50.jpg"
+    },
+    {
+        "titulo": "Django Unchained",
+        "ano": "2013",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzZkZTEwODktNTFiNC00NWIxLWJlZjUtYTc4MGFmOWQ3NWY1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_51.jpg"
+    },
+    {
+        "titulo": "Rear Window",
+        "ano": "1955",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Alfred Hitchcock"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmM2YmQtNWYxYi00ZTkzLTkyYzEtNDNkZTQyYTQ0ZTAyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_52.jpg"
+    },
+    {
+        "titulo": "Modern Times",
+        "ano": "1936",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Charles Chaplin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmY1ZGQzMTgtNjgxZi00ZGRmLTgwOGEtNmRlYzljN2MxZGU2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_53.jpg"
+    },
+    {
+        "titulo": "C'era una volta il West",
+        "ano": "1969",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "Sergio Leone"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzhmNzIzYjUtNTBjOC00MzNmLWJlNDgtOTY3OGYyMTkxZWYzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_54.jpg"
+    },
+    {
+        "titulo": "City Lights",
+        "ano": "1931",
+        "nota_imdb": 8.5,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Charles Chaplin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_55.jpg"
+    },
+    {
+        "titulo": "Apocalypse Now",
+        "ano": "1979",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Guerra"
+        ],
+        "diretores": [
+            "Francis Ford Coppola"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_56.jpg"
+    },
+    {
+        "titulo": "WALL·E",
+        "ano": "2008",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Família"
+        ],
+        "diretores": [
+            "Andrew Stanton"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZDkzNWQtMDg2OS00MDc0LTg4OTgtMDMxZDYzYzlkOWJjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_57.jpg"
+    },
+    {
+        "titulo": "Memento",
+        "ano": "2001",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_58.jpg"
+    },
+    {
+        "titulo": "Dune: Part Two",
+        "ano": "2024",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "Denis Villeneuve"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_59.jpg"
+    },
+    {
+        "titulo": "Raiders of the Lost Ark",
+        "ano": "1981",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzk1ZTBkYmMtNTc3Yy00ZTczLThlZDQtNDhjZDgzMWRlYTI0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_60.jpg"
+    },
+    {
+        "titulo": "Avengers: Infinity War",
+        "ano": "2018",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjg0NDMxZWItODc4ZC00YjM4LWJmNmYtNjlmZTE5NTEwNzEzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_61.jpg"
+    },
+    {
+        "titulo": "Das Leben der Anderen",
+        "ano": "2007",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjVhM2VmMDctYjU1NS00MjEwLWI4NGEtNmU1ZjcwZTU3ZGIyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_62.jpg"
+    },
+    {
+        "titulo": "Spider-Man: Into the Spider-Verse",
+        "ano": "2019",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_63.jpg"
+    },
+    {
+        "titulo": "Sunset Blvd.",
+        "ano": "1950",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Filme noir"
+        ],
+        "diretores": [
+            "Billy Wilder"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_64.jpg"
+    },
+    {
+        "titulo": "Witness for the Prosecution",
+        "ano": "1958",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Billy Wilder"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjQ4ZjgwNzMtNGJmNC00YzU4LTgzOGUtOGUzYWNjNGUzOTYxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_65.jpg"
+    },
+    {
+        "titulo": "Paths of Glory",
+        "ano": "1957",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZWI3NDQwMzUtOGQ5ZS00MDAzLTgwMGYtODM3NGY5NjJmYmVhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_66.jpg"
+    },
+    {
+        "titulo": "The Shining",
+        "ano": "1980",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Terror"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_67.jpg"
+    },
+    {
+        "titulo": "The Great Dictator",
+        "ano": "1942",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Charles Chaplin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_68.jpg"
+    },
+    {
+        "titulo": "Inglourious Basterds",
+        "ano": "2009",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BN2Y1ZmE1ZWItZjQ1OS00YWQxLWE4NWMtNzJkODA4MmE3NTRmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_69.jpg"
+    },
+    {
+        "titulo": "12th Fail",
+        "ano": "2023",
+        "nota_imdb": 8.7,
+        "generos": [
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "Vidhu Vinod Chopra"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_70.jpg"
+    },
+    {
+        "titulo": "Aliens",
+        "ano": "1986",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Terror"
+        ],
+        "diretores": [
+            "James Cameron"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTY2ZmQtYWNiNC00ZWQ5LWI4NGQtMDUzNjU3OTRmZDJlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_71.jpg"
+    },
+    {
+        "titulo": "Tengoku to jigoku",
+        "ano": "1963",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_72.jpg"
+    },
+    {
+        "titulo": "Good Will Hunting",
+        "ano": "1998",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Gus Van Sant"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjRlYzRmZTQtMWU5ZS00NzMyLTkwNGMtY2Q2ZWY1ZDVkOWU5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_73.jpg"
+    },
+    {
+        "titulo": "Avengers: Endgame",
+        "ano": "2019",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMWYzMzk2MTktYjMzYS00MjVmLWE1ZDgtMzczMDc1NjZhODUwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_74.jpg"
+    },
+    {
+        "titulo": "The Dark Knight Rises",
+        "ano": "2012",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjg2NjBjNGEtNGQ4ZC00NjE2LWFkNjktN2E5MzIzNWYxM2Y4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_75.jpg"
+    },
+    {
+        "titulo": "Coco",
+        "ano": "2018",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "Adrian Molina",
+            "Lee Unkrich"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjkyZDZjNzMtMmY0NS00NWMxLThjNWQtNjBlMjI2N2UwZGFiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_76.jpg"
+    },
+    {
+        "titulo": "Amadeus",
+        "ano": "1984",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Musical"
+        ],
+        "diretores": [
+            "Miloš Forman"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BY2I4OWUxODMtN2E2MC00NzAxLTgxNTQtZGQzYjE0ODY0ZGI2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_77.jpg"
+    },
+    {
+        "titulo": "Toy Story",
+        "ano": "1996",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "John Lasseter"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODdhYzcxYmYtOTAzZS00YTRkLTgzODYtNGUzN2Y2ZjNlZTBmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_78.jpg"
+    },
+    {
+        "titulo": "Kimi no na wa.",
+        "ano": "2017",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Animação",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Makoto Shinkai"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_79.jpg"
+    },
+    {
+        "titulo": "Project Hail Mary",
+        "ano": "2026",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Aventura",
+            "Comédia",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Phil Lord",
+            "Christopher Miller"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_80.jpg"
+    },
+    {
+        "titulo": "Das Boot",
+        "ano": "1982",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Wolfgang Petersen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_81.jpg"
+    },
+    {
+        "titulo": "Oldeuboi",
+        "ano": "2024",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Park Chan-wook"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_82.jpg"
+    },
+    {
+        "titulo": "Braveheart",
+        "ano": "1995",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Mel Gibson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjQ0YzY2NTUtMjEyNi00ZTI0LWE0MzktNmQ2MjNjZTY4ZGJhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_83.jpg"
+    },
+    {
+        "titulo": "Mononoke-hime",
+        "ano": "1997",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Hayao Miyazaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmJjZGUxNGEtNmQ0OS00MjVjLTk5YWItMjdhNmRhMmI3M2M4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_84.jpg"
+    },
+    {
+        "titulo": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "ano": "1964",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Comédia",
+            "Guerra"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzc2MGIzODQtY2E4OS00MWQ1LWFiYjEtZTlhNTI0MTJjZjFmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_85.jpg"
+    },
+    {
+        "titulo": "3 Idiots",
+        "ano": "2010",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Rajkumar Hirani"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_86.jpg"
+    },
+    {
+        "titulo": "American Beauty",
+        "ano": "2000",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Sam Mendes"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTBjZjA0YTYtZDAwNi00ZmQyLWIwZGUtZmQ2MWM1MmM4NTY4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_87.jpg"
+    },
+    {
+        "titulo": "Capharnaüm",
+        "ano": "2018",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Nadine Labaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTJjZDkxOWItYjQwYi00MmJjLTlmMDItNTdiMDQ2M2I4OTYyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_88.jpg"
+    },
+    {
+        "titulo": "Singin' in the Rain",
+        "ano": "1952",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Comédia",
+            "Musical",
+            "Romance"
+        ],
+        "diretores": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjQyYWEwZjctN2U1OS00ZDc0LWJhZjgtZmZlZWVjZWViNDMwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_89.jpg"
+    },
+    {
+        "titulo": "Joker",
+        "ano": "2019",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Todd Phillips"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzM3ODNlNTAtYTYxNy00NjZhLTg3MGMtYTIwOWYxNzAwMzQ1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_90.jpg"
+    },
+    {
+        "titulo": "C'era una volta in America",
+        "ano": "1984",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Sergio Leone"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWIzZWUyMWItMTdhZS00YzJjLTlkMmYtNmUwZTQ5YTY2YjM4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_91.jpg"
+    },
+    {
+        "titulo": "Idi i smotri",
+        "ano": "1985",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "Suspense",
+            "Guerra"
+        ],
+        "diretores": [
+            "Elem Klimov"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGU5YTI2ODktYjdjMS00MDE3LWEzZTAtZjdlOGRhYmExMzg1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_92.jpg"
+    },
+    {
+        "titulo": "Star Wars: Episode VI - Return of the Jedi",
+        "ano": "1983",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Richard Marquand"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDM4NTVhNDgtM2QzYi00OTM0LThiYjMtZTNhYWQ3NDI3NjQ5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_93.jpg"
+    },
+    {
+        "titulo": "Requiem for a Dream",
+        "ano": "2001",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Darren Aronofsky"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzk3ZjA2NDQtYTNiYi00ODg4LTk5MzYtOTU3ZWMzMDhjY2NiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_94.jpg"
+    },
+    {
+        "titulo": "Toy Story 3",
+        "ano": "2010",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Lee Unkrich"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODRmODA5NmMtYjYxMS00YWJjLWFjNDMtNDUwMWY5NzdjYjQ1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_95.jpg"
+    },
+    {
+        "titulo": "Ikiru",
+        "ano": "1952",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_96.jpg"
+    },
+    {
+        "titulo": "Jagten",
+        "ano": "2013",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Thomas Vinterberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_97.jpg"
+    },
+    {
+        "titulo": "Incendies",
+        "ano": "2011",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Guerra"
+        ],
+        "diretores": [
+            "Denis Villeneuve"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_98.jpg"
+    },
+    {
+        "titulo": "Eternal Sunshine of the Spotless Mind",
+        "ano": "2004",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "Romance",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Michel Gondry"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_99.jpg"
+    },
+    {
+        "titulo": "The Apartment",
+        "ano": "Ano não encontrado",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Billy Wilder"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_100.jpg"
+    },
+    {
+        "titulo": "Lawrence of Arabia",
+        "ano": "1963",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Aventura",
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "David Lean"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMWZjYTE5NTQtODY1Ny00NTcwLTg2N2EtODA3NzE0OGE0MDQ2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_101.jpg"
+    },
+    {
+        "titulo": "Heat",
+        "ano": "1996",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Michael Mann"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOGQ1OWZmOTgtM2YxZS00ZWI3LWFkMWMtYjA0NWE5NjgwNzI4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_102.jpg"
+    },
+    {
+        "titulo": "Scarface",
+        "ano": "1984",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Brian De Palma"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGIxMGI0YmItZGJkMi00MmY1LWE4YWYtMmU2OWRhODEwZTg1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_103.jpg"
+    },
+    {
+        "titulo": "2001: A Space Odyssey",
+        "ano": "1968",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_104.jpg"
+    },
+    {
+        "titulo": "Reservoir Dogs",
+        "ano": "1993",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Suspense"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_105.jpg"
+    },
+    {
+        "titulo": "Up",
+        "ano": "2009",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Pete Docter",
+            "Bob Peterson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmMwNmVjNjYtZGU1ZS00ZGY1LThlOWQtZDc0NDI5ZWNkYzNiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_106.jpg"
+    },
+    {
+        "titulo": "Double Indemnity",
+        "ano": "1944",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Filme noir"
+        ],
+        "diretores": [
+            "Billy Wilder"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjZkMzZlMWYtMmUzNC00MDUwLWI3NDgtZjkzYzk1NzRlZjViXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_107.jpg"
+    },
+    {
+        "titulo": "North by Northwest",
+        "ano": "1959",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Alfred Hitchcock"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTVkMWRhOGUtYWRlOC00YjM0LWJhYTMtZmFlYmVjNjhkNjZkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_108.jpg"
+    },
+    {
+        "titulo": "Taare Zameen Par",
+        "ano": "2007",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "Família"
+        ],
+        "diretores": [
+            "Aamir Khan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_109.jpg"
+    },
+    {
+        "titulo": "Full Metal Jacket",
+        "ano": "1987",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzk3OWExZmUtM2VjNS00ZTA1LTk4ODgtYWM4ZmQ0NzE4MWU4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_110.jpg"
+    },
+    {
+        "titulo": "M - Eine Stadt sucht einen Mörder",
+        "ano": "2019",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Policial",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Fritz Lang"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_111.jpg"
+    },
+    {
+        "titulo": "Le fabuleux destin d'Amélie Poulain",
+        "ano": "2002",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Comédia",
+            "Romance"
+        ],
+        "diretores": [
+            "Jean-Pierre Jeunet"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjc3YjVhMWUtMGE1Zi00ZGRlLWEwMDMtNDM5ZjUwM2M4MWZhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_112.jpg"
+    },
+    {
+        "titulo": "Vertigo",
+        "ano": "1958",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Mistério",
+            "Romance",
+            "Suspense"
+        ],
+        "diretores": [
+            "Alfred Hitchcock"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzJmZDhjNGYtZDRkMy00ZDkzLTliZWQtOWY2MjI1YjI5NGExXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_113.jpg"
+    },
+    {
+        "titulo": "Citizen Kane",
+        "ano": "1941",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Orson Welles"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_114.jpg"
+    },
+    {
+        "titulo": "Jodaeiye Nader az Simin",
+        "ano": "2012",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Asghar Farhadi"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_115.jpg"
+    },
+    {
+        "titulo": "Die Hard",
+        "ano": "1988",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Suspense"
+        ],
+        "diretores": [
+            "John McTiernan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzliYWVmYjEtYWYyMi00MDBlLTk5MjMtYTQ1OWQ2MzVmMzRiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_116.jpg"
+    },
+    {
+        "titulo": "To Kill a Mockingbird",
+        "ano": "1963",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Robert Mulligan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGM0MWQ5YjUtYzJlMS00ZDBhLWIyOTUtZThmNWFlZTA2YjE1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_117.jpg"
+    },
+    {
+        "titulo": "Indiana Jones and the Last Crusade",
+        "ano": "1989",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjI5MjAxMDEtNzdlMC00YmUxLWJkYWMtNjkxMTNlZGE2OWYzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_118.jpg"
+    },
+    {
+        "titulo": "The Sting",
+        "ano": "1974",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Comédia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "George Roy Hill"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_119.jpg"
+    },
+    {
+        "titulo": "A Clockwork Orange",
+        "ano": "1978",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNGExMTY5YTAtNWRiOS00ZmVhLTliMjktMWExOTI0NjQ3NWYxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_120.jpg"
+    },
+    {
+        "titulo": "Metropolis",
+        "ano": "1927",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Fritz Lang"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_121.jpg"
+    },
+    {
+        "titulo": "1917",
+        "ano": "2020",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Sam Mendes"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjQ4ZTZiZmUtNThiOC00ZTM0LWJkZGYtYmI0ODEyNzJlMDJmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_122.jpg"
+    },
+    {
+        "titulo": "Snatch",
+        "ano": "2001",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Comédia",
+            "Policial"
+        ],
+        "diretores": [
+            "Guy Ritchie"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjM2ODJlMzItY2IzYS00MDUxLWE4YjQtYWU4MGM3MmI4OGIyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_123.jpg"
+    },
+    {
+        "titulo": "The Wolf of Wall Street",
+        "ano": "2014",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Comédia",
+            "Policial"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDhjNDY2OGItNjhmMy00NDk4LWI4YTItM2Q2ZGNjYWIwOGE0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_124.jpg"
+    },
+    {
+        "titulo": "L.A. Confidential",
+        "ano": "1997",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Curtis Hanson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjc3ZWM4ODgtYzlkYi00YTY3LTgyNTYtMGY0ZGNjN2ZjMjE2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_125.jpg"
+    },
+    {
+        "titulo": "Der Untergang",
+        "ano": "2005",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Oliver Hirschbiegel"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzA4YWU5OWUtY2VhNS00NTg2LThiNzEtZTJmMWVmNDBjOTBmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_126.jpg"
+    },
+    {
+        "titulo": "Dangal",
+        "ano": "2017",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Ação",
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "Nitesh Tiwari"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_127.jpg"
+    },
+    {
+        "titulo": "The Truman Show",
+        "ano": "1998",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Peter Weir"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzc2YjA3YzAtYWE0OS00Njk4LWJkOGQtNmQ0ZGRhYzBjMTIzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_128.jpg"
+    },
+    {
+        "titulo": "Ladri di biciclette",
+        "ano": "1948",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Vittorio De Sica"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_129.jpg"
+    },
+    {
+        "titulo": "Green Book",
+        "ano": "2019",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Peter Farrelly"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MWNiZjktNjkxZi00NGM1LWFmMGItYjg2ZjY0NDQ1MzA1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_130.jpg"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "ano": "2023",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOGRmMDc3ZWYtNTJlYS00ZDdhLWI4OTgtNDIxNWI5YTMxNzdkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_131.jpg"
+    },
+    {
+        "titulo": "Shutter Island",
+        "ano": "2010",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDE4NDk1ODItMWVkNi00YTA0LWIzNDEtYzdjYjA2MGE3MzllXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_132.jpg"
+    },
+    {
+        "titulo": "Judgment at Nuremberg",
+        "ano": "1961",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Drama",
+            "História",
+            "Guerra"
+        ],
+        "diretores": [
+            "Stanley Kramer"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_133.jpg"
+    },
+    {
+        "titulo": "Batman Begins",
+        "ano": "2005",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Christopher Nolan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmI5MjkxOWUtNGNkOS00NDRmLWJlOWUtODhmNGIxODY2ZjIwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_134.jpg"
+    },
+    {
+        "titulo": "Hamilton",
+        "ano": "2020",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Thomas Kail"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_135.jpg"
+    },
+    {
+        "titulo": "Per qualche dollaro in più",
+        "ano": "1965",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "Sergio Leone"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BY2QyNjQ1ZGQtNWY1YS00OGE5LWEwYzEtMjgzNDE3ODA3YjljXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_136.jpg"
+    },
+    {
+        "titulo": "Jurassic Park",
+        "ano": "1993",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDVmNDRiYzQtYWYzNy00ZWM5LTg1ZWYtZWYxOTdhNTI1ODc1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_137.jpg"
+    },
+    {
+        "titulo": "Taxi Driver",
+        "ano": "1976",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTI2YjhiZDktNGJhOS00M2M3LWJiMGEtOWQ5ZDc5MjIwODhiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_138.jpg"
+    },
+    {
+        "titulo": "I Swear",
+        "ano": "2025",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "Kirk Jones"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_139.jpg"
+    },
+    {
+        "titulo": "Some Like It Hot",
+        "ano": "1959",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Comédia",
+            "Musical",
+            "Romance"
+        ],
+        "diretores": [
+            "Billy Wilder"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_140.jpg"
+    },
+    {
+        "titulo": "There Will Be Blood",
+        "ano": "2008",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Paul Thomas Anderson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2ViMzgtZTE3Zi00NDE0LTk3NjctYzE4NGQyMjFlMmIzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_141.jpg"
+    },
+    {
+        "titulo": "The Father",
+        "ano": "2021",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Florian Zeller"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODFlMWMtZTE0YS00NjFkLTlmZDctYTMwYTg0ODI1YzIwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_142.jpg"
+    },
+    {
+        "titulo": "The Kid",
+        "ano": "1921",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Família"
+        ],
+        "diretores": [
+            "Charles Chaplin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_143.jpg"
+    },
+    {
+        "titulo": "All About Eve",
+        "ano": "1951",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Joseph L. Mankiewicz"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_144.jpg"
+    },
+    {
+        "titulo": "The Sixth Sense",
+        "ano": "1999",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "M. Night Shyamalan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_145.jpg"
+    },
+    {
+        "titulo": "Ran",
+        "ano": "1986",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_146.jpg"
+    },
+    {
+        "titulo": "Casino",
+        "ano": "1996",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmMzYmJmMWYtODc4NC00N2Y1LWI3YWItZGFiZmI3YzhiOGUwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_147.jpg"
+    },
+    {
+        "titulo": "No Country for Old Men",
+        "ano": "2008",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzNhNjgxNjYtMmM5Ni00MzhjLTk2YmEtYWQ4OWNjMTdkMTAyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_148.jpg"
+    },
+    {
+        "titulo": "The Thing",
+        "ano": "1983",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Terror",
+            "Mistério",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "John Carpenter"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDY5NTQ3MDgtNTg5YS00Y2JmLTkwMjYtYzVhZDc4MmUwMzY3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_149.jpg"
+    },
+    {
+        "titulo": "Prisoners",
+        "ano": "2013",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Denis Villeneuve"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNGFiY2VmNzMtNTRlOC00ZTQ1LTk4YmUtM2E1NDBkYmFkMjhkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_150.jpg"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "ano": "2022",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Drama"
+        ],
+        "diretores": [
+            "Joseph Kosinski"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDlmNTktNzk3My00MmUwLWJkM2QtYjg0Y2IyYTI2OWI3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_151.jpg"
+    },
+    {
+        "titulo": "Kill Bill: Vol. 1",
+        "ano": "2004",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Suspense"
+        ],
+        "diretores": [
+            "Quentin Tarantino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTVmODIyZGYtMWUzOS00YWNhLTlhMGYtM2ExZjRmNDIxMDAwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_152.jpg"
+    },
+    {
+        "titulo": "El laberinto del fauno",
+        "ano": "2006",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Fantasia",
+            "Guerra"
+        ],
+        "diretores": [
+            "Guillermo del Toro"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjFjYWY1ZWMtNjRkZS00NDY4LTk5MTUtMTAxNDM2NjEyMjgxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_153.jpg"
+    },
+    {
+        "titulo": "Unforgiven",
+        "ano": "1992",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "Clint Eastwood"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_154.jpg"
+    },
+    {
+        "titulo": "Shingeki no Kyojin: The Last Attack",
+        "ano": "2025",
+        "nota_imdb": 9.2,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Yûichirô Hayashi"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYWZiYTQ3NTMtOTBjZC00MGUzLTljOTktOGYyZDgyYTA5ODhiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_155.jpg"
+    },
+    {
+        "titulo": "A Beautiful Mind",
+        "ano": "2002",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Ron Howard"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_156.jpg"
+    },
+    {
+        "titulo": "The Treasure of the Sierra Madre",
+        "ano": "1948",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Faroeste"
+        ],
+        "diretores": [
+            "John Huston"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_157.jpg"
+    },
+    {
+        "titulo": "Hauru no ugoku shiro",
+        "ano": "2005",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Família"
+        ],
+        "diretores": [
+            "Hayao Miyazaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjFmOTNkZDYtMzA2OC00MmVlLTgwM2EtMDcyNjUyOWVkMzY5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_158.jpg"
+    },
+    {
+        "titulo": "Finding Nemo",
+        "ano": "2003",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzYzYjYwNzUtNDI4Yi00NWUzLTg0ZDctZWZlZTY0MTAyNWVlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_159.jpg"
+    },
+    {
+        "titulo": "Klaus",
+        "ano": "2019",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Carlos Martínez López",
+            "Sergio Pablos"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_160.jpg"
+    },
+    {
+        "titulo": "Yôjinbô",
+        "ano": "1963",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_161.jpg"
+    },
+    {
+        "titulo": "The Great Escape",
+        "ano": "1964",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "John Sturges"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_162.jpg"
+    },
+    {
+        "titulo": "The Elephant Man",
+        "ano": "1981",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "David Lynch"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2E4ZGQ1YTktMDhmYy00MWI4LWJkYzAtYjI2YWU3MWExNDMxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_163.jpg"
+    },
+    {
+        "titulo": "Monty Python and the Holy Grail",
+        "ano": "1975",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Aventura",
+            "Comédia",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Terry Gilliam",
+            "Terry Jones"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGIxMjIwOTktN2U5Mi00ZGNjLWJhMjMtZWRkNDQyZjVmMmVjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_164.jpg"
+    },
+    {
+        "titulo": "Dial M for Murder",
+        "ano": "1954",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Alfred Hitchcock"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2U4ZWMzOTMtZTJlMi00MWY4LTlmN2UtZWUwNGIzMTQ3MmI2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_165.jpg"
+    },
+    {
+        "titulo": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
+        "ano": "2025",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Hikaru Kondô",
+            "Haruo Sotozaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzM3Yzk0OTMtMWQzOC00NjM2LThlOGYtN2IyNTY4NjlmYTI0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_166.jpg"
+    },
+    {
+        "titulo": "La meglio gioventù",
+        "ano": "2003",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Marco Tullio Giordana"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDFjNjVkZTAtYzJiOS00OTFmLWEzNDYtNGVmY2Y5YjgxOTMxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_167.jpg"
+    },
+    {
+        "titulo": "El secreto de sus ojos",
+        "ano": "2010",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Romance"
+        ],
+        "diretores": [
+            "Juan José Campanella"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGYxMmU4ODEtODEwYS00ZmM1LWI4MGItNGE0NTI4Y2RiNjUzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_168.jpg"
+    },
+    {
+        "titulo": "Gone with the Wind",
+        "ano": "1940",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Romance",
+            "Guerra"
+        ],
+        "diretores": [
+            "Victor Fleming"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYjgxMzg2YzMtYmE3ZC00MjRmLWI4MzYtYjk0ZmY1ZjQ5NTEzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_169.jpg"
+    },
+    {
+        "titulo": "Lock, Stock and Two Smoking Barrels",
+        "ano": "1999",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Policial"
+        ],
+        "diretores": [
+            "Guy Ritchie"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_170.jpg"
+    },
+    {
+        "titulo": "Chinatown",
+        "ano": "1974",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "Roman Polanski"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_171.jpg"
+    },
+    {
+        "titulo": "V for Vendetta",
+        "ano": "2006",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "James McTeigue"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_172.jpg"
+    },
+    {
+        "titulo": "Catch Me If You Can",
+        "ano": "2003",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWQ0YjU2ZWItYTk5Yy00ZWFjLWI4Y2UtMGQ4ZDM2YWU0YTg1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_173.jpg"
+    },
+    {
+        "titulo": "Inside Out",
+        "ano": "2015",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Ronnie Del Carmen",
+            "Pete Docter"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWI3ZTNlN2QtY2YxZS00YjIwLTgyN2UtNWI5MzU0NzU4MWRkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_174.jpg"
+    },
+    {
+        "titulo": "Rashômon",
+        "ano": "1953",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Akira Kurosawa"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_175.jpg"
+    },
+    {
+        "titulo": "Three Billboards Outside Ebbing, Missouri",
+        "ano": "2018",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Martin McDonagh"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_176.jpg"
+    },
+    {
+        "titulo": "Trainspotting",
+        "ano": "1996",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Danny Boyle"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYmE3NWI3YWItN2ZkNy00YWU3LWFhODgtZjI1NGRhYjhlNDBmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_177.jpg"
+    },
+    {
+        "titulo": "The Bridge on the River Kwai",
+        "ano": "1957",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "David Lean"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_178.jpg"
+    },
+    {
+        "titulo": "Harry Potter and the Deathly Hallows: Part 2",
+        "ano": "2011",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Família",
+            "Fantasia"
+        ],
+        "diretores": [
+            "David Yates"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmVjYjM2OGUtZmFmOS00YWYxLThhZWItMDJhZWEzNzU3OTU5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_179.jpg"
+    },
+    {
+        "titulo": "Dead Poets Society",
+        "ano": "1990",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Peter Weir"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODFjZGItYjM4Ni00ODMwLTgyM2QtOGM2MGZhZGZiOGIzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_180.jpg"
+    },
+    {
+        "titulo": "The Wild Robot",
+        "ano": "2024",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Família"
+        ],
+        "diretores": [
+            "Chris Sanders"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNmM4MWFjOGYtM2I0MS00YTNhLWFmOTgtZDBhNzY4M2M2N2Q3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_181.jpg"
+    },
+    {
+        "titulo": "Warrior",
+        "ano": "2011",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Esportes"
+        ],
+        "diretores": [
+            "Gavin O&apos;Connor"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzcyYmFjODMtYTkzMC00M2JmLTk5ZGQtZWQyNGQ4MWZjZDczXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_182.jpg"
+    },
+    {
+        "titulo": "Barry Lyndon",
+        "ano": "1975",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Stanley Kubrick"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzBiN2UyMzQtODA3Ny00NjI1LWFmYTktZTdlNjZhNTgwNDViXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_183.jpg"
+    },
+    {
+        "titulo": "Ben-Hur",
+        "ano": "1960",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "William Wyler"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_184.jpg"
+    },
+    {
+        "titulo": "Fargo",
+        "ano": "1996",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjdiN2MyNDctZDVhMi00NTllLWE3ZjEtZDkxNjk5ZjMwZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_185.jpg"
+    },
+    {
+        "titulo": "Million Dollar Baby",
+        "ano": "2005",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Esportes"
+        ],
+        "diretores": [
+            "Clint Eastwood"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmViZWNlOTItMjc3ZS00ZWRiLTkwYWUtOTUxZTk2Zjc2Y2Q3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_186.jpg"
+    },
+    {
+        "titulo": "Raging Bull",
+        "ano": "1981",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Esportes"
+        ],
+        "diretores": [
+            "Martin Scorsese"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzViYWFkYzgtZmVhMy00MTMyLWJmYmEtZWIyNDA3MDlkZjQyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_187.jpg"
+    },
+    {
+        "titulo": "Mad Max: Fury Road",
+        "ano": "2015",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "George Miller"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDJkNzQ2ZGMtZmI5YS00NzUxLThmNGEtZmE2OWY0MzE1NGM3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_188.jpg"
+    },
+    {
+        "titulo": "Hacksaw Ridge",
+        "ano": "2017",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Mel Gibson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZGZmM2UyMmUtYzNlMi00ZGVjLThhYWUtYjdhNmFlOTM4NDUyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_189.jpg"
+    },
+    {
+        "titulo": "Bacheha-ye aseman",
+        "ano": "1999",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Família",
+            "Esportes"
+        ],
+        "diretores": [
+            "Majid Majidi"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZTc5MTRjN2MtMDQwMS00MzNlLWJhYTgtYjQ3YTJjNDNhN2Q2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_190.jpg"
+    },
+    {
+        "titulo": "Tonari no Totoro",
+        "ano": "1988",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Hayao Miyazaki"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOWRhYzU2MWQtNGMxZC00YmE3LThiZjUtZjA3MGQzY2ZmMWY2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_191.jpg"
+    },
+    {
+        "titulo": "Gran Torino",
+        "ano": "2009",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Clint Eastwood"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_192.jpg"
+    },
+    {
+        "titulo": "Ratatouille",
+        "ano": "2007",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Brad Bird",
+            "Jan Pinkava"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDYzMzUzMDEtNDcyYy00MDRiLTkwZDUtNjg5NzAyZDIyNTA5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_193.jpg"
+    },
+    {
+        "titulo": "12 Years a Slave",
+        "ano": "2014",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Steve McQueen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmFmMmRiNWUtYTIzOS00MDdkLThlOWItN2QzNjRkNWEyZDIzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_194.jpg"
+    },
+    {
+        "titulo": "The Grand Budapest Hotel",
+        "ano": "2014",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Wes Anderson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTc4YTY0MjEtM2I3Ni00MDVjLTljZTAtYzdjNDI1YmEwYWE0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_195.jpg"
+    },
+    {
+        "titulo": "Hababam Sinifi: Sinifta Kaldi",
+        "ano": "Ano não encontrado",
+        "nota_imdb": 8.4,
+        "generos": [
+            "Comédia"
+        ],
+        "diretores": [
+            "Ertem Egilmez"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_196.jpg"
+    },
+    {
+        "titulo": "Before Sunrise",
+        "ano": "1995",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Richard Linklater"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BM2I4MDU2ZTItOTk4My00NmQyLTk1YTQtODRlZmU1MzNlMGNiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_197.jpg"
+    },
+    {
+        "titulo": "Salinui chueok",
+        "ano": "2003",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Bong Joon Ho"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjcxYjY4MGEtYzFmNy00ODgxLWFjZWMtOGMzODYyOGRjMTY3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_198.jpg"
+    },
+    {
+        "titulo": "How to Train Your Dragon",
+        "ano": "2010",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMWE0YjQyYWEtYmY1NS00YTk4LTgwYzgtZTY3N2YxYmU0YjkzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_199.jpg"
+    },
+    {
+        "titulo": "Blade Runner",
+        "ano": "1982",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "Ridley Scott"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_200.jpg"
+    },
+    {
+        "titulo": "Gone Girl",
+        "ano": "2014",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Mistério",
+            "Suspense"
+        ],
+        "diretores": [
+            "David Fincher"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTI4OTVjNjMtYTc4My00M2UyLTlkYTMtMjc0YjE5Njc1MzFiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_201.jpg"
+    },
+    {
+        "titulo": "Spider-Man: No Way Home",
+        "ano": "2021",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Jon Watts"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_202.jpg"
+    },
+    {
+        "titulo": "Monsters, Inc.",
+        "ano": "2001",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Pete Docter",
+            "David Silverman",
+            "Lee Unkrich"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_203.jpg"
+    },
+    {
+        "titulo": "Jaws",
+        "ano": "1975",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Terror"
+        ],
+        "diretores": [
+            "Steven Spielberg"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjFhN2FlYzYtOWY5Yi00ZDY3LTg5ZTYtZjZjODljMjEyZTlmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_204.jpg"
+    },
+    {
+        "titulo": "Ford v Ferrari",
+        "ano": "2019",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Biografia",
+            "Drama"
+        ],
+        "diretores": [
+            "James Mangold"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODQwZmE2M2UtMzU1MS00NDNkLWFhMjAtMjVkZjVkYWRmYjdmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_205.jpg"
+    },
+    {
+        "titulo": "In the Name of the Father",
+        "ano": "1994",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Jim Sheridan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYmQyMTRhYTAtZGEzMi00YWViLTkyYzAtOTkwOGQ4YjYwOTFkXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_206.jpg"
+    },
+    {
+        "titulo": "Relatos salvajes",
+        "ano": "2014",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Damián Szifron"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_207.jpg"
+    },
+    {
+        "titulo": "The Gold Rush",
+        "ano": "1925",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Charles Chaplin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTE1MWFkOWQtOWM1NC00ZjA4LTk5NmUtZTFjZDFjMzEwYTQzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_208.jpg"
+    },
+    {
+        "titulo": "Sherlock Jr.",
+        "ano": "1924",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Comédia",
+            "Romance"
+        ],
+        "diretores": [
+            "Buster Keaton"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_209.jpg"
+    },
+    {
+        "titulo": "Mary and Max.",
+        "ano": "2010",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Adam Elliot"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzI1NWU1YjYtYWJhYi00NGQ5LTk4MjctYmRjN2FjOWEwNzEzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_210.jpg"
+    },
+    {
+        "titulo": "The Deer Hunter",
+        "ano": "1979",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Michael Cimino"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzE2MWYwYTMtYmJjNi00MTZmLThjOTQtOGViYTEwNzY0ZmQxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_211.jpg"
+    },
+    {
+        "titulo": "Le salaire de la peur",
+        "ano": "1953",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Henri-Georges Clouzot"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZTg0ODlkYTUtZjNhMy00ZmVhLTk0YWItYWMzYzYxYzgyYzU5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_212.jpg"
+    },
+    {
+        "titulo": "The General",
+        "ano": "1927",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Comédia"
+        ],
+        "diretores": [
+            "Clyde Bruckman",
+            "Buster Keaton"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_213.jpg"
+    },
+    {
+        "titulo": "Logan",
+        "ano": "2017",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Drama",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "James Mangold"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTQxYTMtZDNhZi00ZjQ1LTkwYmItZjEyMDc4NjU4MjY3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_214.jpg"
+    },
+    {
+        "titulo": "Rocky",
+        "ano": "1977",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Esportes"
+        ],
+        "diretores": [
+            "John G. Avildsen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNzdhZDNjN2ItMDdjMS00Yzk5LWFjZmYtMjM4MjM1Zjg2MzFlXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_215.jpg"
+    },
+    {
+        "titulo": "Mr. Smith Goes to Washington",
+        "ano": "1939",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Drama"
+        ],
+        "diretores": [
+            "Frank Capra"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_216.jpg"
+    },
+    {
+        "titulo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "ano": "2003",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Gore Verbinski"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzBkZDIyMWQtNGY5ZS00MjVlLWFjMzItNzkxNWMwNmEwZDk4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_217.jpg"
+    },
+    {
+        "titulo": "Tôkyô monogatari",
+        "ano": "Ano não encontrado",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Yasujirô Ozu"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNjRkYzJmMWYtNWM1NC00OTEyLTlkZWYtYmJkNzA3YWYxZDM0XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_218.jpg"
+    },
+    {
+        "titulo": "On the Waterfront",
+        "ano": "1954",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Elia Kazan"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMGViMjFmNmQtYWUzNS00YmQ3LWE2M2UtOWY3YjA3Njc5M2U5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_219.jpg"
+    },
+    {
+        "titulo": "Koe no katachi",
+        "ano": "2019",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Animação",
+            "Drama"
+        ],
+        "diretores": [
+            "Naoko Yamada"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_220.jpg"
+    },
+    {
+        "titulo": "La haine",
+        "ano": "1995",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Mathieu Kassovitz"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_221.jpg"
+    },
+    {
+        "titulo": "Spotlight",
+        "ano": "2016",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "Tom McCarthy"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTk1MGY3OTYtNTYwNy00MDUxLTk0Y2ItNjBkODQ4MWY3MGQ5XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_222.jpg"
+    },
+    {
+        "titulo": "Smultronstället",
+        "ano": "1957",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Ingmar Bergman"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTEzNmMyNTEtYTU2NC00MGI5LWEyYTctNGFjM2RjODk5NGMzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_223.jpg"
+    },
+    {
+        "titulo": "The Terminator",
+        "ano": "1985",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Ação",
+            "Aventura",
+            "Ficção científica"
+        ],
+        "diretores": [
+            "James Cameron"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzhhM2Y3NzctZmExNy00NjRlLThiYWEtZmEwYjU3MWUwNDM3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_224.jpg"
+    },
+    {
+        "titulo": "The Sound of Music",
+        "ano": "1965",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Família"
+        ],
+        "diretores": [
+            "Robert Wise"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_225.jpg"
+    },
+    {
+        "titulo": "Jai Bhim",
+        "ano": "2021",
+        "nota_imdb": 8.6,
+        "generos": [
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "T.J. Gnanavel"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_226.jpg"
+    },
+    {
+        "titulo": "Maharaja",
+        "ano": "2024",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Ação",
+            "Policial",
+            "Drama"
+        ],
+        "diretores": [
+            "R. Nandhakumar",
+            "Nithilan Saminathan",
+            "T. Suresh"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_227.jpg"
+    },
+    {
+        "titulo": "The Third Man",
+        "ano": "1950",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Filme noir",
+            "Mistério"
+        ],
+        "diretores": [
+            "Carol Reed"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmZDgtNjkxNi00OGZjLWJjZDctMjgxMjMzZWJhNWU2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_228.jpg"
+    },
+    {
+        "titulo": "The Big Lebowski",
+        "ano": "1999",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Comédia",
+            "Policial"
+        ],
+        "diretores": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNDI3MTExMTUtNzA0NS00MTFhLTg0YjUtMmRhZDUwMzJiZTU2XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_229.jpg"
+    },
+    {
+        "titulo": "Gekijô-ban Chensô Man Reze-hen",
+        "ano": "2025",
+        "nota_imdb": 8.3,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Tatsuya Yoshihara"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_230.jpg"
+    },
+    {
+        "titulo": "The Best Years of Our Lives",
+        "ano": "1947",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Romance",
+            "Guerra"
+        ],
+        "diretores": [
+            "William Wyler"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWJkN2E2NDMtZTQ2My00NWFlLThkYTctODRmM2Y0MGM1ZWQzXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_231.jpg"
+    },
+    {
+        "titulo": "Before Sunset",
+        "ano": "2004",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretores": [
+            "Richard Linklater"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjAyMWNkMmQtNDhiOC00NWRlLWIzYjEtNzlmNTE0ODAxMmYwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_232.jpg"
+    },
+    {
+        "titulo": "Det sjunde inseglet",
+        "ano": "1959",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Ingmar Bergman"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYzc4YWFiNmMtZDlkMy00NTM2LWJlN2ItYjcyNTU0NmQ5NWY3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_233.jpg"
+    },
+    {
+        "titulo": "Room",
+        "ano": "2016",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Suspense"
+        ],
+        "diretores": [
+            "Lenny Abrahamson"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZTA5MTBiNzctM2Y0Mi00OGRjLWJiMTAtOGQ4MWE2YmFlNzI1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_234.jpg"
+    },
+    {
+        "titulo": "Hotel Rwanda",
+        "ano": "2005",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Terry George"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNGU3MTA4ZWQtYjc0YS00M2EzLWFlNTItYTg0NjY1YTM1YjUyXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_235.jpg"
+    },
+    {
+        "titulo": "The Incredibles",
+        "ano": "2004",
+        "nota_imdb": 8,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Brad Bird"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_236.jpg"
+    },
+    {
+        "titulo": "Platoon",
+        "ano": "1987",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Oliver Stone"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_237.jpg"
+    },
+    {
+        "titulo": "Hachi: A Dog's Tale",
+        "ano": "2009",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Família"
+        ],
+        "diretores": [
+            "Lasse Hallström"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_238.jpg"
+    },
+    {
+        "titulo": "The Exorcist",
+        "ano": "1974",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Terror"
+        ],
+        "diretores": [
+            "William Friedkin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_239.jpg"
+    },
+    {
+        "titulo": "Rush",
+        "ano": "2013",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "Esportes"
+        ],
+        "diretores": [
+            "Ron Howard"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BYmNhN2E3Y2EtZjk5My00NDBiLWI2OWItNWQwMzJmN2IzZDBmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_240.jpg"
+    },
+    {
+        "titulo": "The Iron Giant",
+        "ano": "2000",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Animação",
+            "Ação",
+            "Aventura"
+        ],
+        "diretores": [
+            "Brad Bird"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_241.jpg"
+    },
+    {
+        "titulo": "The Wizard of Oz",
+        "ano": "1939",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Família",
+            "Fantasia"
+        ],
+        "diretores": [
+            "Victor Fleming",
+            "George Cukor",
+            "Norman Taurog"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNWY3OWRmYTYtYWM2Ny00NzNiLWJmY2UtYzI1NTRkZDdhZWE1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_242.jpg"
+    },
+    {
+        "titulo": "Stand by Me",
+        "ano": "1986",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Aventura",
+            "Drama"
+        ],
+        "diretores": [
+            "Rob Reiner"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMjBhOGEzNzEtMGFlYi00ZjE2LWJmMTUtNzA1ZGY2MWRkZWYxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_243.jpg"
+    },
+    {
+        "titulo": "La passion de Jeanne d'Arc",
+        "ano": "1928",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Biografia",
+            "Drama",
+            "História"
+        ],
+        "diretores": [
+            "Carl Theodor Dreyer"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_244.jpg"
+    },
+    {
+        "titulo": "Babam ve Oglum",
+        "ano": "2005",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama",
+            "Família"
+        ],
+        "diretores": [
+            "Çagan Irmak"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_245.jpg"
+    },
+    {
+        "titulo": "La battaglia di Algeri",
+        "ano": "1982",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Guerra"
+        ],
+        "diretores": [
+            "Gillo Pontecorvo"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_246.jpg"
+    },
+    {
+        "titulo": "Ah-ga-ssi",
+        "ano": "2017",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama",
+            "Romance",
+            "Suspense"
+        ],
+        "diretores": [
+            "Park Chan-wook"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BNTBlNDAyNWEtZGQ3Yi00NzBiLTg4ZTMtMWFkNjRkMTVhMmM3XkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_247.jpg"
+    },
+    {
+        "titulo": "Network",
+        "ano": "1976",
+        "nota_imdb": 8.1,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Sidney Lumet"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BN2Y5ODBlOTktMWQyYi00NTVmLWEzNmEtM2JkZWQ0ZDllODYwXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_248.jpg"
+    },
+    {
+        "titulo": "Drishyam",
+        "ano": "2015",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Policial",
+            "Drama",
+            "Mistério"
+        ],
+        "diretores": [
+            "Nishikant Kamat"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWFkMjEtYmYyZi00MmE5LWIzMzUtYmM2N2M5Y2UxZDJjXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_249.jpg"
+    },
+    {
+        "titulo": "Yedinci Kogustaki Mucize",
+        "ano": "2019",
+        "nota_imdb": 8.2,
+        "generos": [
+            "Drama"
+        ],
+        "diretores": [
+            "Mehmet Ada Öztekin"
+        ],
+        "url_poster": "https://m.media-amazon.com/images/M/MV5BMzZmMWUxZGMtOTg3MS00OTA4LTg5NzktZGY4NjgyMzExYTZhXkEyXkFqcGc@._V1_.jpg",
+        "imagem_poster_local": "posters_imdb\\poster_250.jpg"
+    }
+]
