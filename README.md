@@ -8,7 +8,17 @@ Este repositório contém os scripts Python desenvolvidos para a disciplina de C
 
 ### 1. Instalar as dependências
 
-Antes de rodar o código, é necessário instalar as bibliotecas externas responsáveis pelas requisições HTTP, parseamento de HTML e automação de navegador. Execute o comando abaixo no terminal do seu ambiente:
+Antes de rodar o código, crie e ative um ambiente virtual para isolar as dependências do projeto:
+
+`python3 -m venv .venv`
+
+`source .venv/bin/activate`
+
+Depois, instale as bibliotecas externas responsáveis pelas requisições HTTP, parseamento de HTML e automação de navegador:
+
+`pip install -r requirements.txt`
+
+Se preferir instalar manualmente, o conjunto usado pelos scripts é:
 
 `pip install requests beautifulsoup4 pandas selenium webdriver-manager`
 
@@ -35,6 +45,20 @@ Para executar, rode no terminal:
 #### Opção 2: Rodar o Scraper do IMDb (Tarefa 2)
 
 Devido às pesadas proteções anti-bot do IMDb, este script utiliza a biblioteca **Selenium** para simular a navegação humana e acessar a lista dos 250 filmes com maiores avaliações.
+
+Para esta tarefa, também é necessário ter o Google Chrome instalado no sistema (WSL/Linux). Se ainda não tiver, use:
+
+`sudo apt-get update`
+
+`sudo apt-get install -y wget gnupg`
+
+`wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-linux-keyring.gpg`
+
+`echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list`
+
+`sudo apt-get update`
+
+`sudo apt-get install -y google-chrome-stable`
 
 Para executar, rode no terminal:
 
