@@ -7,6 +7,7 @@ import time
 import json
 import os
 import requests
+import html
 
 # ---------------------------------------------------------
 # PASSO 0: PREPARAÇÃO
@@ -89,9 +90,10 @@ try:
         
         if json_ld_tag:
             try:
-                dados_estruturados = json.loads(json_ld_tag.string)
-                
-                titulo = dados_estruturados.get('name', 'Título não encontrado')
+                dados_estruturados = json.loads(json_ld_tag.string)   
+                # 1. Título (agora limpando os códigos HTML estranhos)
+                titulo_bruto = dados_estruturados.get('name', 'Título não encontrado')
+                titulo = html.unescape(titulo_bruto)
                 
                 data_pub = dados_estruturados.get('datePublished')
                 ano = data_pub.split('-')[0] if data_pub else "Ano não encontrado"
@@ -102,10 +104,14 @@ try:
                 if isinstance(generos, str): 
                     generos = [generos]
                     
+                # 5. Diretores (agora procurando pela chave correta '@type')
                 diretores_brutos = dados_estruturados.get('director', [])
                 if isinstance(diretores_brutos, dict): 
                     diretores_brutos = [diretores_brutos]
-                diretores = [d.get('name') for d in diretores_brutos if d.get('type') == 'Person']
+                    
+                # A mágica está aqui: d.get('@type')
+                diretores = [d.get('name') for d in diretores_brutos if d.get('@type') == 'Person' or d.get('type') == 'Person']
+                
                 if not diretores:
                     diretores = ["Diretor não encontrado"]
                     
