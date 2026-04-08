@@ -38,14 +38,14 @@ if response.status_code == 200:
     for tag in tags_a:
         href = tag['href']
         
-        # Flexibilizando o filtro para pegar links absolutos e relativos
-        if '/wiki/' in href:
+        # Flexibilizando o filtro e bloqueando links de edição (que contém '?')
+        if '/wiki/' in href and '?' not in href:
             # Pega apenas a parte do artigo (depois do /wiki/)
             parte_final = href.split('/wiki/')[-1]
             # Remove âncoras de sessão (ex: Brasil#História vira apenas Brasil)
             parte_final = parte_final.split('#')[0]
             
-            # Verifica se não é página especial (sem os ":" no nome do artigo) e não é o Neymar
+            # Verifica se não é página especial (sem os ":" no nome) e não é o Neymar
             if ':' not in parte_final and parte_final != 'Neymar' and parte_final != '':
                 links_internos.append(f"/wiki/{parte_final}")
 
